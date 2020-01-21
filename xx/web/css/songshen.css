@@ -1,0 +1,139 @@
+/**{*/
+	/*padding: 0;*/
+	/*margin: 0px;*/
+/*}*/
+
+#kuang1{
+	position: absolute;
+	height: 500px;
+	width: 600px;
+	border: 1px solid aliceblue;
+	margin-left: 450px;
+	margin-top: 180px;
+	border-radius: 20px;
+	
+	background-color: #4d4d4d;
+	
+}
+#zi1{
+	position: absolute;
+	margin-left: 600px;
+	margin-top: 70px;
+	font-size: 50px;
+	letter-spacing: 20px;
+	color: blueviolet;
+}
+#zi2{
+	position: absolute;
+	margin-left: 100px;
+	margin-top: 25px;
+	color: cornflowerblue;
+}
+#zi3{
+	position: absolute;
+	margin-left: 150px;
+	margin-top: 25px;
+	color: antiquewhite;
+
+}
+#zi4{
+	position: absolute;
+	margin-left: 30px;
+	margin-top: 60px;
+	color: cornflowerblue;
+	font-size: 20px;
+}
+#inp1{
+	position: absolute;
+	margin-left: 150px;
+	margin-top: 60px;
+	height: 30px;
+	width: 230px;
+}
+#zi5{
+	position: absolute;
+	margin-left: 30px;
+	margin-top: 120px;
+	color: cornflowerblue;
+	font-size: 20px;
+
+}
+#inp2{
+	position: absolute;
+	margin-left: 150px;
+	margin-top: 120px;
+	height: 30px;
+	width: 230px;
+}
+#zi6{
+	position: absolute;
+	margin-left: 30px;
+	margin-top: 180px;
+	color: cornflowerblue;
+	font-size: 20px;
+
+}
+#inp3{
+	position: absolute;
+	margin-left: 150px;
+	margin-top: 180px;
+	height: 30px;
+	width: 230px;
+}
+#zi7{
+	position: absolute;
+	margin-left: 30px;
+	margin-top: 240px;
+	color: cornflowerblue;
+	font-size: 20px;
+
+}
+#inp4{
+	position: absolute;
+	margin-left: 150px;
+	margin-top: 240px;
+	height: 30px;
+	width: 230px;
+}
+#zi8{
+	position: absolute;
+	margin-left: 30px;
+	margin-top: 300px;
+	color: cornflowerblue;
+	font-size: 20px;
+
+}
+#inp5{
+	position: absolute;
+	margin-left: 150px;
+	margin-top: 300px;
+	height: 130px;
+	width: 230px;
+}
+#dakuang{
+	position: absolute;
+	height: 800px;
+	width: 1550px;
+	border: 1px solid black;
+}
+#tu1{
+	position: absolute;
+	height: 800px;
+	width: 1550px;
+}
+#anniu1{
+	position: absolute;
+	margin-top: 450px;
+	margin-left: 400px;
+	height: 30px;
+	width: 50px;
+}
+#anniu2{
+	position: absolute;
+	margin-top: 450px;
+	margin-left: 500px;
+	height: 30px;
+	width: 50px;
+}
+
+	

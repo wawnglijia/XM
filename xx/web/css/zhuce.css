@@ -1,0 +1,84 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+#kuang{
+	position: absolute;
+	width: 1550px;
+	height: 800px;
+	/* border: 1px solid black; */
+	z-index: -100;
+	
+	
+}
+#kuang1{
+	position: absolute;
+	width: 500px;
+	height: 100px;
+	margin-left: 500px;
+	margin-top: -800px;
+	z-index: 20;
+	/* border: 1px solid black; */
+	
+}
+#kuang2{
+	position: absolute;
+	width: 500px;
+	height: 450px;
+	margin-left: 500px;
+	margin-top: -650px;
+	/* border: 1px solid black; */
+
+	
+}
+#kuang3{
+	position: absolute;
+	width: 350px;
+	height: 50px;
+	margin-left: 100px;
+	margin-top: 70px;
+}
+#kuang4{
+	position: absolute;
+	width: 350px;
+	height: 50px;
+	margin-left:100px;
+	margin-top: 150px;
+}
+#kuang5{
+	position: absolute;
+	width: 200px;
+	height:70px;
+	font-size: 30px;
+	background-color:green;
+	margin-left: 150px;
+	margin-top: 270px;
+}
+#kuang6{
+	position: absolute;
+	margin-left: 40px;
+	margin-top: 90px;
+
+}
+#kuang7{
+	position: absolute;
+	margin-left: 40px;
+	margin-top: 170px;
+}
+#kuang8{
+	position: absolute;
+	font-size: 70px;
+	color: seagreen;
+	margin-left: 500px;
+	margin-top: 100px;
+	}
+	
+#kuang9{
+	position: absolute;
+	font-size: 20px;
+	margin-top: -430px;
+	margin-left: 870px;
+	color: red;
+}
